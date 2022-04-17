@@ -1,0 +1,13 @@
+body{
+  background-color: #FDF0BA;
+}
+
+.coding-img{
+  display: flex;
+  width: 460px;
+  height: 300px;
+}
+
+.Tabelul-principal{
+  border: 5px;
+}

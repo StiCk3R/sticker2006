@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sticker2006
+- 👀 I’m interested in codinh like HTML5, CSS3, JS, and Designing
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m looking to collaborate on mySelf.
